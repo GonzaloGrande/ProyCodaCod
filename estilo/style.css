@@ -1,0 +1,16 @@
+.nav-item {
+    transition: all 0.3s ease-in-out;
+  }
+
+.nav-item:hover { 
+background-color: #d2e47d; 
+}
+
+.max-width-700 {
+    max-width: 700px;
+  }
+
+.no-text-decoration {
+   text-decoration: none;
+  }  
+
